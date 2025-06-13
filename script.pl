@@ -1,0 +1,1 @@
+print "Welcome to the ai-image-generator project in Perl\n";
